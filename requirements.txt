@@ -1,0 +1,4 @@
+gradio==4.44.1
+openai==1.54.3
+python-dotenv==1.0.1
+httpx==0.27.2
